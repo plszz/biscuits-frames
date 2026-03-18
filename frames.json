@@ -1,0 +1,32 @@
+{
+  "animated_avatar_frames": [
+    {
+      "id": "frame_001",
+      "file_format": "png",
+      "preview_url": "https://upload-os-bbs.hoyolab.com/upload/2024/04/15/84429452/0a7c312cfe79afadf689be5d7e1e99cd_2089410240355281750.png",
+      "price": 0,
+      "is_premium": false
+    },
+    {
+      "id": "frame_002",
+      "file_format": "jpg",
+      "preview_url": "https://i.pinimg.com/736x/5f/f5/1e/5ff51efafd82426dfccd7c5a0f0b89a1.jpg",
+      "price": 0,
+      "is_premium": false
+    },
+    {
+      "id": "frame_003",
+      "file_format": "gif",
+      "preview_url": "https://64.media.tumblr.com/27d1dc0b96bafddabaf457e414ccf51f/9ae2b653243aa457-51/s400x600/b2ccce3e09bb4b980865268bc8f922e182ab5964.gif",
+      "price": 0,
+      "is_premium": false
+    },
+    {
+      "id": "frame_004",
+      "file_format": "gif",
+      "preview_url": "https://upload-os-bbs.hoyolab.com/upload/2024/07/25/67612338/0f940aba1059c78c0b6c16c7e34018eb_7940125032857101097.gif",
+      "price": 0,
+      "is_premium": false
+    }
+  ]
+}
