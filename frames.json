@@ -26,7 +26,8 @@
       "file_format": "png",
       "preview_url": "https://uspobaevlhxptmqyifgs.supabase.co/storage/v1/object/public/cdn/IMG_8130.png",
       "price": 500000000,
-      "is_premium": true
+      "is_premium": true,
+      "avatar_scale": 0.85
     },
     {
       "id": "frame_007",
