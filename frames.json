@@ -12,7 +12,8 @@
       "file_format": "gif",
       "preview_url": "https://64.media.tumblr.com/27d1dc0b96bafddabaf457e414ccf51f/9ae2b653243aa457-51/s400x600/b2ccce3e09bb4b980865268bc8f922e182ab5964.gif",
       "price": 500000000,
-      "is_premium": true
+      "is_premium": true,
+      "is_limited": true
     },
     {
       "id": "frame_005",
@@ -20,14 +21,16 @@
       "preview_url": "https://uspobaevlhxptmqyifgs.supabase.co/storage/v1/object/public/cdn/IMG_8132.png",
       "price": 500000000,
       "is_premium": true,
-      "avatar_scale": 1.2
+      "avatar_scale": 1.2,
+      "is_limited": true
     },
     {
       "id": "frame_006",
       "file_format": "png",
       "preview_url": "https://uspobaevlhxptmqyifgs.supabase.co/storage/v1/object/public/cdn/IMG_8130.png",
       "price": 500000000,
-      "is_premium": true
+      "is_premium": true,
+      "is_limited": true
     },
     {
       "id": "frame_007",
@@ -35,7 +38,8 @@
       "preview_url": "https://uspobaevlhxptmqyifgs.supabase.co/storage/v1/object/public/cdn/IMG_8131.png",
       "price": 500000000,
       "is_premium": true,
-      "avatar_scale": 1.2
+      "avatar_scale": 1.2,
+      "is_limited": true
     },
     {
       "id": "frame_008",
@@ -43,7 +47,8 @@
       "preview_url": "https://uspobaevlhxptmqyifgs.supabase.co/storage/v1/object/public/cdn/IMG_8133.png",
       "price": 500000000,
       "is_premium": true,
-      "avatar_scale": 1.2
+      "avatar_scale": 1.2,
+      "is_limited": true
     }
   ]
 }
