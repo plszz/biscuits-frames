@@ -19,29 +19,31 @@
       "file_format": "png",
       "preview_url": "https://uspobaevlhxptmqyifgs.supabase.co/storage/v1/object/public/cdn/IMG_8132.png",
       "price": 500000000,
-      "is_premium": true
+      "is_premium": true,
+      "avatar_scale": 1.2
     },
     {
       "id": "frame_006",
       "file_format": "png",
       "preview_url": "https://uspobaevlhxptmqyifgs.supabase.co/storage/v1/object/public/cdn/IMG_8130.png",
       "price": 500000000,
-      "is_premium": true,
-      "avatar_scale": 0.85
+      "is_premium": true
     },
     {
       "id": "frame_007",
       "file_format": "png",
       "preview_url": "https://uspobaevlhxptmqyifgs.supabase.co/storage/v1/object/public/cdn/IMG_8131.png",
       "price": 500000000,
-      "is_premium": true
+      "is_premium": true,
+      "avatar_scale": 1.2
     },
     {
       "id": "frame_008",
       "file_format": "png",
       "preview_url": "https://uspobaevlhxptmqyifgs.supabase.co/storage/v1/object/public/cdn/IMG_8133.png",
       "price": 500000000,
-      "is_premium": true
+      "is_premium": true,
+      "avatar_scale": 1.2
     }
   ]
 }
