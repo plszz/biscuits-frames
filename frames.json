@@ -4,7 +4,7 @@
       "id": "frame_001",
       "file_format": "png",
       "preview_url": "https://upload-os-bbs.hoyolab.com/upload/2024/04/15/84429452/0a7c312cfe79afadf689be5d7e1e99cd_2089410240355281750.png",
-      "price": 500000000,
+      "price": 0,
       "is_premium": false
     },
     {
@@ -16,29 +16,29 @@
     },
     {
       "id": "frame_005",
-      "file_format": "webp",
-      "preview_url": "https://media.discordapp.net/attachments/1233751491676864583/1484193004091736236/IMG_8132.png?ex=69bd55f3&is=69bc0473&hm=c3ed493cb5aadbb9011d7970bee59501d45581b531ec574fe9cfe905ff127f42&=&format=webp&quality=lossless&width=487&height=487",
+      "file_format": "png",
+      "preview_url": "https://uspobaevlhxptmqyifgs.supabase.co/storage/v1/object/public/cdn/IMG_8132.png",
       "price": 500000000,
       "is_premium": true
     },
     {
       "id": "frame_006",
-      "file_format": "webp",
-      "preview_url": "https://media.discordapp.net/attachments/1233751491676864583/1484193004607770634/IMG_8130.png?ex=69bd55f3&is=69bc0473&hm=8ef69dd86472d067c92fc50c14171d4bcecca28b5144735b2a510beac130332c&=&format=webp&quality=lossless&width=487&height=487",
+      "file_format": "png",
+      "preview_url": "https://uspobaevlhxptmqyifgs.supabase.co/storage/v1/object/public/cdn/IMG_8130.png",
       "price": 500000000,
       "is_premium": true
     },
     {
       "id": "frame_007",
-      "file_format": "webp",
-      "preview_url": "https://media.discordapp.net/attachments/1233751491676864583/1484193004351656029/IMG_8131.png?ex=69bd55f3&is=69bc0473&hm=b773f974ece29aed88c05a21d3f714b6e9718eb5205eb60889881e2ecede930b&=&format=webp&quality=lossless&width=487&height=487",
+      "file_format": "png",
+      "preview_url": "https://uspobaevlhxptmqyifgs.supabase.co/storage/v1/object/public/cdn/IMG_8131.png",
       "price": 500000000,
       "is_premium": true
     },
     {
       "id": "frame_008",
-      "file_format": "webp",
-      "preview_url": "https://media.discordapp.net/attachments/1233751491676864583/1484193076393283845/IMG_8133.png?ex=69bd5604&is=69bc0484&hm=da148cc38a9a9d859a6843b307f13b60f89db3350689ad00e7a743d1f1b49f69&=&format=webp&quality=lossless",
+      "file_format": "png",
+      "preview_url": "https://uspobaevlhxptmqyifgs.supabase.co/storage/v1/object/public/cdn/IMG_8133.png",
       "price": 500000000,
       "is_premium": true
     }
