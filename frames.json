@@ -49,6 +49,38 @@
       "is_premium": true,
       "avatar_scale": 1.2,
       "is_limited": true
+    },
+    {
+      "id": "frame_009",
+      "file_format": "png",
+      "preview_url": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1379870/35fea86ce346a46bb1e1747dfce30dcac13ea470.png",
+      "price": 500000000,
+      "is_premium": true,
+      "is_limited": true
+    },
+    {
+      "id": "frame_010",
+      "file_format": "png",
+      "preview_url": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1348700/aea8ed36048c1ccbb72fb7bf3d862a1c29d37783.png",
+      "price": 500000000,
+      "is_premium": true,
+      "is_limited": true
+    },
+    {
+      "id": "frame_011",
+      "file_format": "png",
+      "preview_url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1069740/85030942387d8c7803922f84c31e82bc42728279.png",
+      "price": 500000000,
+      "is_premium": true,
+      "is_limited": true
+    },
+    {
+      "id": "frame_012",
+      "file_format": "png",
+      "preview_url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/656970/ded73907963b7fa376c2431e711d79811d6a1d67.png",
+      "price": 500000000,
+      "is_premium": true,
+      "is_limited": true
     }
   ]
 }
